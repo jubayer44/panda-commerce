@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gentium+Book+Plus&display=swap');
 
 
-
-*{
-    margin: 0;
-    padding: 0;
+.title-color{
+    color: #FA804C;
 }
 
-.f-family{
+
+.bg-color{
+    color: #FFF9F4;
+}
+
+.nike-color{
+    background-color: rgb(177, 177, 177);
 }
